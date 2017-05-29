@@ -1,0 +1,25 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "ejercicios de angularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metry41/Angular.git"
+  },
+  "keywords": [
+    "AngularJS"
+  ],
+  "author": "Alvaro de la Chica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metry41/Angular/issues"
+  },
+  "homepage": "https://github.com/metry41/Angular#readme",
+  "dependencies": {
+    "angularjs": "0.0.1"
+  }
+}
