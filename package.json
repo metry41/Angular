@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/metry41/Angular#readme",
   "dependencies": {
-    "angularjs": "0.0.1"
+    "angularjs": "0.0.1",
+    "boostrap": "^1.0.0",
+    "bootstrap": "^3.3.7"
   }
 }
